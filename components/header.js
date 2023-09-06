@@ -97,6 +97,11 @@ const navBarItems = [
     hasDropdown: true,
     children: [
       {
+        name: "About Us",
+        href: "/about-us",
+        id: "about-us",
+      },
+      {
         name: "Volunteers",
         href: "/volunteers/",
         id: "volunteers",
